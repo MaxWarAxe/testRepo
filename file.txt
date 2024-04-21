@@ -4,4 +4,7 @@ some data
 
 feature1{
     qwerty
+    code1
+    code2
+    code3
 }
